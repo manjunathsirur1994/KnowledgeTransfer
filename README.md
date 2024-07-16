@@ -6,3 +6,7 @@ Transformers architecture expalined step by step
 
 Langchain usage
 1. https://api.python.langchain.com/en/latest/chat_models/langchain_openai.chat_models.base.ChatOpenAI.html
+
+
+Fastai book
+Book: https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
