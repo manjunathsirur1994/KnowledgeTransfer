@@ -9,9 +9,9 @@ Langchain usage
 
 
 Fastai book
-Book: https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
+1. Book: https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
 
 PyTorch
-video lessons: https://youtu.be/V_xro1bcAuA?si=AuwYF40_n3uiMI0i
-Notebooks: https://github.com/mrdbourke/pytorch-deep-learning?tab=readme-ov-file
-Book: https://www.learnpytorch.io/
+1. video lessons: https://youtu.be/V_xro1bcAuA?si=AuwYF40_n3uiMI0i
+2. Notebooks: https://github.com/mrdbourke/pytorch-deep-learning?tab=readme-ov-file
+3. Book: https://www.learnpytorch.io/
